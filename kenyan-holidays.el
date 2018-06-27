@@ -25,7 +25,7 @@
 ;;
 ;; To use 'kenyan-holidays' exclusively
 ;;
-;;  (setq calendar-holidays holiday-german-holidays)
+;;  (setq calendar-holidays holiday-kenyan-holidays)
 ;;
 ;; To use 'kenyan-holidays' additionally
 ;;
